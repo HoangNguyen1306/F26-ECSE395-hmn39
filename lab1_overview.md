@@ -1,15 +1,15 @@
 # ECSE 395: Junior Engineering Design Seminar Lab
 
-Minh Hoang Nguyen - hmn39 - Lab 1: Markdown and GitHub Basics - 28th August, 2026
+*Minh Hoang Nguyen - hmn39 - Lab 1: Markdown and GitHub Basics - 28th August, 2026*
 
 # Lab 1: Markdown and GitHub Basics
-## Overview
+## *Overview*
 
 **Course:** ECSE 395 — Junior Engineering Design Seminar
 **Date:** August 28, 2026
 **Instructor:** Professor Michael Fu
 
-## Lab 1 Assignment purpose
+## *Lab 1 Assignment purpose*
 
 The purpose of **Lab 1** is to get comfortable with two essential tools used throughout
 the semester, Markdown and GitHub
@@ -21,7 +21,7 @@ By completing this lab, I will be able to:
 - **Create and clone** GitHub repositories
 - **Stage, commit, and push** files and changes to a remote repository
 
-## Steps Completed to Finish This Lab
+## *Steps Completed to Finish This Lab*
 
 1. Created a public repository named `F26_ECSE395-hmn39` to contains all of the project documents in the course.
 2. Skimming specific tasks needed to do in the lab documentation
@@ -33,7 +33,7 @@ By completing this lab, I will be able to:
 9. Edited the `README.md` in the `Weekly project log` folder.
 10. Staged and committed changes
 
-## Time Reporting and Reflection:
+## *Time Reporting and Reflection*
 1. The Markdown and GitHub Basics assignment took me about 2 hours in order to finish all according to the rubrics
 2. I would associate this assignment with medium difficulty
 3. In terms of different aspects of the assignment, it's not that the tasks were difficult to do by themselves, but the following of all of the tasks and the rubrics proves to be pretty difficult due to sheer amount and multiple constraints that I may overlook accidentally in the pdf file.
