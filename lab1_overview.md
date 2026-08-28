@@ -6,7 +6,9 @@
 ## *Overview*
 
 **Course:** ECSE 395 — Junior Engineering Design Seminar
+
 **Date:** August 28, 2026
+
 **Instructor:** Professor Michael Fu
 
 ## *Lab 1 Assignment purpose*
