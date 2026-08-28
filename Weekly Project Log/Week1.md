@@ -1,4 +1,4 @@
-# Weekly Project Log - Week 1 - 28th August 2026
+# **Weekly Project Log - Week 1 - 28th August 2026**
 
 ## *Team 3 - ECSE 395 Activities*
 - 24th August 2026: ECSE 395 first class activities and introduction to everyone
