@@ -7,6 +7,10 @@
 - **27th August 2026**: Written the needfinding email to the stakeholder (Ms. Tyler Petrie) regarding the problem statement: "I frequently forget to close the windows before leaving for work"
 - **28th August 2026**: Rendezvous as a group of 3 in Glennan 312 from 2:05 PM to 2:55 PM, deciding and writing our team's contract, each member's roles and responsibilities. Team meeting attendees: Ray Zhang, Minh Hoang Nguyen, Anas Albahri.
 
+### Stakeholder email screenshot:
+<img width="2016" height="1252" alt="unnamed" src="https://github.com/user-attachments/assets/78ee734c-90d2-4afe-a1a0-c0cd083439cc" />
+
+
 ## *Lab 1 Activities: Markdown and GitHub Basics*
 - 28th August 2026: Studied and practiced using **GitHub repositories**, creating and editing **Markdown (.md) files**, and tested various Markdown formatting features including headers, lists, bold/italic text, tables, and code blocks.
 - 28th August 2026: Created `lab1_overview.md` and `week1.md`, placed them in the correct repository folders, staged, committed, and pushed changes to GitHub.
