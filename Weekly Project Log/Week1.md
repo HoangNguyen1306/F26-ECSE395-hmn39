@@ -20,7 +20,7 @@
 - 28th August 2026: Studied and practiced using **GitHub repositories**, creating and editing **Markdown (.md) files**, and tested various Markdown formatting features including headers, lists, bold/italic text, tables, and code blocks.
 - 28th August 2026: Created `lab1_overview.md` and `week1.md`, placed them in the correct repository folders, staged, committed, and pushed changes to GitHub.
 
-## *Next Week Task*
+## *Next Week Task (8/30 - 9/4)*
 - Follow up the stakeholder email.
 - Potentially meeting up with the stakeholder via Zoom
 - Outline the products, problems and preferences that the stakeholder has for our project.
