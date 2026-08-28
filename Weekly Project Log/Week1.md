@@ -8,4 +8,4 @@
 - **28th August 2026**: Rendezvous as a group of 3 in Glennan 312 from 2:05 PM to 2:55 PM, deciding and writing our team's contract, each member's roles and responsibilities.
 
 ## *Lab 1 Activities: Markdown and GitHub Basics*
-- Work and study on how to use GitHub repositories, use markdown files and testing out different uses for formatting
+- Work and study on how to use GitHub repositories, use markdown files and testing out different uses for formatting.
