@@ -8,4 +8,5 @@
 - **28th August 2026**: Rendezvous as a group of 3 in Glennan 312 from 2:05 PM to 2:55 PM, deciding and writing our team's contract, each member's roles and responsibilities.
 
 ## *Lab 1 Activities: Markdown and GitHub Basics*
-- Work and study on how to use GitHub repositories, use markdown files and testing out different uses for formatting.
+- 28th August 2026: Studied and practiced using **GitHub repositories**, creating and editing **Markdown (.md) files**, and tested various Markdown formatting features including headers, lists, bold/italic text, tables, and code blocks.
+- 28th August 2026: Created `lab1_overview.md` and `week1.md`, placed them in the correct repository folders, staged, committed, and pushed changes to GitHub.
