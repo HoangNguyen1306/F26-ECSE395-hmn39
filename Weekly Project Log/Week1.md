@@ -9,6 +9,7 @@
 
 ### Stakeholder email screenshot - Sent on 2:37 PM, 28 August 2026
 <img width="2016" height="1252" alt="unnamed" src="https://github.com/user-attachments/assets/78ee734c-90d2-4afe-a1a0-c0cd083439cc" />
+**Note:** Yerassyl Shnazbayev left ECSE 395 Group in pursuit of an internship
 
 ## *Lab 1 Activities: Markdown and GitHub Basics*
 - 28th August 2026: Studied and practiced using **GitHub repositories**, creating and editing **Markdown (.md) files**, and tested various Markdown formatting features including headers, lists, bold/italic text, tables, and code blocks.
