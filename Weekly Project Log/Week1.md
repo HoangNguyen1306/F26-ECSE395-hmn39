@@ -7,7 +7,7 @@
 - **27th August 2026**: Written the needfinding email to the stakeholder (Ms. Tyler Petrie) regarding the problem statement: "I frequently forget to close the windows before leaving for work"
 - **28th August 2026**: Rendezvous as a group of 3 in Glennan 312 from 2:05 PM to 2:55 PM, deciding and writing our team's contract, each member's roles and responsibilities. Team meeting attendees: Ray Zhang, Minh Hoang Nguyen, Anas Albahri.
 
-** My contribution to Lab activities:
+**My contribution to Lab activities:**
 - Refine the team contract among our group of 3
 - Agree on the time where we will have our weekly meeting (3:00 PM every Friday)
 - Built my GitHub repository and finished up the lab assignment.
