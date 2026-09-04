@@ -3,7 +3,8 @@
 ## *Team 3 - ECSE 395 Activities*
 - **2nd September 2026**: Our group met together virtually on Zoom to discuss, create questions to ask our project's stakeholder and to assign tasks for members to do during the meeting.
 - **3rd September 2026**: Our group conducted an interview with the project's stakeholder, asking her necessary questions to understand more
-- **4th September 2026**: Rendezvous as a group of 3 in Glennan 312 from 2:05 PM to 2:55 PM, working with each other on the lab assignments and discuss activities for next week
+- **4th September 2026**: Rendezvous as a group of 3 in Glennan 312 from 2:05 PM to 3:15 PM, working with each other on the lab assignments regarding blinking LEDs and discuss important activities for next week
+
 **My contribution to the group:**
 - Initiate the discussion to prepare the interview meeting the night before
 - Asking the stakeholder additional questions alongside with the team leader Jay and writing additional notes
