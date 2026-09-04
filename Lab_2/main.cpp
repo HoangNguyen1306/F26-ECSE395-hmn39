@@ -5,13 +5,13 @@
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);
-  // TODO: Define your baud rates
+  // TODO: Baud rate is 115200 based on the ESP32
   Serial.begin(115200); // Start the Serial connection
 }
 
 void loop() {
-  // TODO: Define your text output
-  Serial.println("First Blink Test_hmn39_ECSE 395"); // Print the words to the Serial Monitor.
+  // TODO: Output text to the Serial Monitor
+  Serial.println("First Blink Test_hmn39_ECSE 395");
   
   // TODO: Set up your delay in milliseconds
   digitalWrite(LED_PIN, HIGH); // LED On
