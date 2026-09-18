@@ -10,8 +10,13 @@ void setup() {
     Serial.begin(115200);
 
     pinMode(MOTOR_B_1A, OUTPUT);
-    pinMode(MOTOR_B_1B, OUTPUT);  
- 
+    pinMode(MOTOR_B_1B, OUTPUT); 
+
+    pinMode(MOTOR_B_1A, OUTPUT);
+    pinMode(MOTOR_B_1B, OUTPUT);
+}
+
+void loop() {
     for (int speed = 128; speed < 255; speed++) {
         analogWrite(MOTOR_B_1A, speed);
         analogWrite(MOTOR_B_1B, 0);
@@ -28,10 +33,7 @@ void setup() {
     delay(1500);
     analogWrite(MOTOR_B_1A, 0);  
     analogWrite(MOTOR_B_1B, 0);
-}
-
-void loop() {
-
+    delay(500);
 }
 
 // Note:
