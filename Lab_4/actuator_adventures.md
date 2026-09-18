@@ -67,16 +67,16 @@ The coding files for this lab are in the /Lab_4/.src folder:
 `Servo Motor EC.cpp`
 
 ## *How changing the values in TT Motor Rotate.cpp changes the behavior:
-**Modifying analogWrite():**
-**Swapping analogWrite():**
-**Modifying delay():**
+- **Modifying analogWrite():** Change the value makes the speed of the TT motor different, higher value is faster while lower value is slower.
+- **Swapping analogWrite():** Swap the value changes the rotation orientation of the TT motor.
+- **Modifying delay():** Changing the delay makes the motor run for a longer or shorter period depending on the value
 
 ## *How changing the values in Servo Motor.cpp changes the behavior:*
-**minPulseWidth:** I changed the value to
-**maxPulseWidth:** I changed the value to
-**setPeriodHertz:** I changed the value to
-**Rotation range:** I changed the value to
-**delay:** I changed the value to
+- **minPulseWidth:** I changed the value from 500 to 1000, and see the servo's minimum position changes.
+- **maxPulseWidth:** I changed the value from 2500 to 2000, and see the servo's maximum position changes.
+- **setPeriodHertz:** I changed the value from 50 to 100, and there's not much difference outside of the movement being more sudden or jittery.
+- **Rotation range:** I changed the value from 180 to 135, and the servo rotate less than before.
+- **delay:** I changed the value from 1000 to 2000, and see the servo stay at the above command for a longer period.
 
 ## *Time Reporting and Reflection*
 1. It took me about 150 minutes to finish all of the task including spinning the Tuned Torque Motor, Servo Motor and the extra credits.
