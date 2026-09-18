@@ -66,6 +66,14 @@ The coding files for this lab are in the /Lab_4/.src folder:
 `Servo Motor Random.cpp`
 `Servo Motor EC.cpp`
 
+##**Pictures for the TT Motor and Servo Motor circuits:**
+**TT Motor Circuit:**
+<img width="1268" height="951" alt="0" src="https://github.com/user-attachments/assets/90a9739e-3ada-465a-a63a-0de2e0409d55" />
+
+**Servo Motor Circuit:**
+<img width="1268" height="951" alt="0" src="https://github.com/user-attachments/assets/85a4ec60-24bd-4bb7-88d6-c95717f14c7f" />
+
+
 ## *How changing the values in TT Motor Rotate.cpp changes the behavior:
 - **Modifying analogWrite():** Change the value makes the speed of the TT motor different, higher value is faster while lower value is slower.
 - **Swapping analogWrite():** Swap the value changes the rotation orientation of the TT motor.
