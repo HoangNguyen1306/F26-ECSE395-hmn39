@@ -35,6 +35,7 @@ void loop() {
   pulseWidth = map(randomAngle, 0, 180, minPulseWidth, maxPulseWidth);
   myServo.writeMicroseconds(pulseWidth); // writing pulse width to servo
 
+  // ---Random delay between 50 to 1000 milliseconds
   randomDelay = random(50, 1000);
   delay(randomDelay); // change delay to your own preference
 }
