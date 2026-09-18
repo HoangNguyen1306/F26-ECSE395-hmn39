@@ -13,14 +13,14 @@
 
 ## *Lab 4 Assignment purpose*
 
-The purpose of Lab 4 (fill in)
+The purpose of Lab 4 **(fill in)**
 
 By completing this lab, I will be able to:
 
-(fill in)
+**(fill in)**
 
 ## *Steps Completed to Finish This Lab*
-(fill in)
+**(fill in)**
 
 ## *Coding File Names*
 
@@ -32,7 +32,7 @@ The coding files for this lab are in the /Lab_4/.src folder:
 `Servo Motor Radom.cpp`
 
 ## *Time Reporting and Reflection*
-1. It took me about (fill in) minutes to finish all of the task including (fill in).
+1. It took me about **(fill in)** minutes to finish all of the task including **(fill in)**.
 2. I would associate this assignment with low difficulty.
 3. (I associated the assignment with low difficulty earlier)
 4. As of current, I'm feeling comfortable with the contents.
