@@ -37,13 +37,13 @@ By completing this lab, I will be able to:
 9. Changed the analogWrite() values one at a time and recorded how the motor responded.
 10. Swapped the analogWrite() values and recorded the change in motor direction and speed.
 11. Modified the delay() values and recorded how the timing of the movement shifted.
-12. Rewrote TT Motor Rotate.cpp so the motor:
-13. I pushed the updated code and documentation to the GitHub repository.
-14. I recorded a video of the modified TT motor and submitted it to Canvas.
+12. Rewrote `TT Motor Rotate`.cpp so the motor:
+13. Pushed the updated code and documentation to the GitHub repository.
+14. Recorded a video of the modified TT motor and submitted it to Canvas.
 15. Post-Class Task: Servo Motor
 16. Built the servo motor circuit with the ESP32, SG90 servo motor, breadboard, and jumper wires, following the provided schematic.
 17. Set the benchtop DC power supply to a maximum of 5 V and 0.75 A.
-18. Uploaded Servo Motor.cpp to the ESP32 with PlatformIO.
+18. Uploaded `Servo Motor.cpp` to the ESP32 with PlatformIO.
 19. Watched the servo sweep from 0° to 180° and back to 0°.
 20. Changed these parameters one at a time and recorded each effect:
 - minPulseWidth
@@ -51,8 +51,7 @@ By completing this lab, I will be able to:
 - setPeriodHertz
 - Rotation range
 - delay()
-21. Modified Servo Motor Random.cpp so the servo moves to random angles between 0° and 180° with varied delays.
-22. Commented the code changes.
+21. Modified Servo Motor `Random.cpp` so the servo moves to random angles between 0° and 180° with varied delays.
 23. Saved the modified servo code and pushed it to the GitHub repository.
 24. Recorded a video of the modified servo and submitted it to Canvas.
 
@@ -66,6 +65,11 @@ The coding files for this lab are in the /Lab_4/.src folder:
 `Servo Motor.cpp`
 `Servo Motor Random.cpp`
 `Servo Motor EC.cpp`
+
+## *How changing the values in TT Motor Rotate.cpp changes the behavior:
+**Modifying analogWrite():**
+**Swapping analogWrite():**
+**Modifying delay():**
 
 ## *How changing the values in Servo Motor.cpp changes the behavior:*
 **minPulseWidth:** I changed the value to
