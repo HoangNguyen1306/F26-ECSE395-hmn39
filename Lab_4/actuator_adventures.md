@@ -28,11 +28,20 @@ The coding files for this lab are in the /Lab_4/.src folder:
 
 `TT Motor.cpp`
 `TT Motor Rotation.cpp`
+`TT Motor EC.cpp`
 `Servo Motor.cpp`
-`Servo Motor Radom.cpp`
+`Servo Motor Random.cpp`
+`Servo Motor EC.cpp`
+
+## *How changing the values in Servo Motor.cpp changes the behavior:*
+**minPulseWidth:** I changed the value to
+**maxPulseWidth:** I changed the value to
+**setPeriodHertz:** I changed the value to
+**Rotation range:** I changed the value to
+**delay:** I changed the value to
 
 ## *Time Reporting and Reflection*
-1. It took me about **(fill in)** minutes to finish all of the task including **(fill in)**.
+1. It took me about 120 minutes to finish all of the task including spinning the Tuned Torque Motor, Servo Motor and the extra credits.
 2. I would associate this assignment with low difficulty.
 3. (I associated the assignment with low difficulty earlier)
 4. As of current, I'm feeling comfortable with the contents.
