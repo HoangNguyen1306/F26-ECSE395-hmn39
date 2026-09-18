@@ -12,19 +12,20 @@ void setup() {
     pinMode(MOTOR_B_1A, OUTPUT);
     pinMode(MOTOR_B_1B, OUTPUT);  
  
-    for (int speed = 64; speed < 255; speed++) {
+    for (int speed = 128; speed < 255; speed++) {
         analogWrite(MOTOR_B_1A, speed);
         analogWrite(MOTOR_B_1B, 0);
 
         delay(20);
     }
-    delay(1000);
-    for (int speed = 255; speed > 64; speed--) {
+    delay(1500);
+    for (int speed = 255; speed > 128; speed--) {
         analogWrite(MOTOR_B_1A, speed);
         analogWrite(MOTOR_B_1B, 0);
 
         delay(20);
     }
+    delay(1500);
     analogWrite(MOTOR_B_1A, 0);  
     analogWrite(MOTOR_B_1B, 0);
 }
