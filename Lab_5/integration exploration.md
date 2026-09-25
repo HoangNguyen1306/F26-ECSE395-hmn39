@@ -55,10 +55,8 @@ The coding file for this lab is in the `/Lab_5/.src` folder:
 [INSERT VIDEO LINK / EMBED HERE]
 
 ## *Time Reporting and Reflection*
-1. [INSERT: How long did it take you to complete this assignment?]
-2. [INSERT: Difficulty level — Low / Medium / High]
-3. [INSERT: If medium/high, what was most difficult?]
-4. [INSERT: How comfortable do you currently feel with the course content?]
-5. [INSERT: Any additional feedback for the instructors/TA?]
-
-*Note: I did not complete the extra credit portion of this lab.*
+1. It took me about 90 minutes to finish all of the task including spinning the Tuned Torque Motor, Servo Motor and the extra credits.
+2. I would associate this assignment with low difficulty.
+3. (I associated the assignment with low difficulty earlier)
+4. As of current, I'm feeling comfortable with the contents.
+5. (I don't have any additional feedback for the instructors and the teaching assistant.
