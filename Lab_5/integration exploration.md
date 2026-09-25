@@ -30,7 +30,7 @@ When the touch sensor is touched, the ESP32 reads a sufficiently powerful signal
 4. Opened the Lab 5 project on VSCode through PlatformIO.
 5. Connected the ESP32 to the computer using a USB-C data cable.
 6. Wired the touch sensor's I/O pin and the passive buzzer to the ESP32 on a breadboard.
-7. Wrote `main.cpp` so that the buzzer turns on continuously while the touch sensor is touched and turns off as soon as it is released.
+7. Wrote `main.cpp` so that the buzzer turns on continuously while the touch sensor is touched and turns off when it is released.
 8. Uploaded the code to the ESP32 with PlatformIO and tested the behavior using the Serial Monitor.
 9. Recorded a video of the working touch sensor and buzzer integration and submitted it as a Canvas comment on the Lab 5 assignment.
 10. Took a picture of the circuit for this document.
@@ -39,14 +39,14 @@ When the touch sensor is touched, the ESP32 reads a sufficiently powerful signal
 ## *Coding File Names*
 
 The coding file for this lab is in the `/Lab_5/.src` folder:
+`main.cpp` 
 
-`main.cpp` — reads the touch sensor's digital output and drives the passive buzzer accordingly.
+##**Pictures for the Touch Sensor + Buzzer Circuit:**
+<img width="1268" height="951" alt="0" src="https://github.com/user-attachments/assets/a8f52d40-b19c-4fca-a20d-3acccc054cef" />
 
-## *Circuit Picture and Wiring Explanation*
 
-[INSERT IMAGE OF CIRCUIT HERE]
+## *Circuit Wiring*
 
-**Wiring:**
 - Touch Sensor Module: VCC → 3.3V, GND → GND, OUT → PIN A0
 - Passive Buzzer Module: + → PIN 33 (PWM), − → GND
 
