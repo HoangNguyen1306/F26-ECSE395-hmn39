@@ -1,13 +1,13 @@
 # ECSE 395: Junior Engineering Design Seminar Lab
 
-*Minh Hoang Nguyen - hmn39 - Lab 5: ESP32 Sensor and Actuator Integration - 23rd September, 2026*
+*Minh Hoang Nguyen - hmn39 - Lab 5: ESP32 Sensor and Actuator Integration - 25th September, 2026*
 
 # Lab 5: Integration Exploration
 ## *Overview*
 
 **Course:** ECSE 395 — Junior Engineering Design Seminar
 
-**Date:** September 25rd, 2026
+**Date:** September 25th, 2026
 
 **Instructor:** Professor Michael Fu
 
