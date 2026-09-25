@@ -7,7 +7,7 @@
 
 **Course:** ECSE 395 — Junior Engineering Design Seminar
 
-**Date:** September 23rd, 2026
+**Date:** September 25rd, 2026
 
 **Instructor:** Professor Michael Fu
 
