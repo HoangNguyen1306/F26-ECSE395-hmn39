@@ -11,7 +11,7 @@
 
 **Instructor:** Professor Michael Fu
 
-This is my last assignment working with the ESP32 for this course. Going forward, my work will focus on integrating sensors and actuators together to build a "smart system." I uploaded code to the ESP32 using PlatformIO on [INSERT: Mac/Windows/Linux].
+This is the last assignment working with the ESP32 for this course. And this lab will gradually introduce me on integrating sensors and actuators together to build a "smart system." later on in the semester
 
 For this lab, I selected the **Touch Sensor Module** as my sensor and the **Passive Buzzer Module** as my actuator. This combination was not on the list of disallowed pairings, so it was a valid choice for this assignment.
 
