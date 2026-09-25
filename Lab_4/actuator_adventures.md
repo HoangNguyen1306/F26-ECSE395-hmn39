@@ -74,7 +74,7 @@ The coding files for this lab are in the /Lab_4/.src folder:
 <img width="1268" height="951" alt="0" src="https://github.com/user-attachments/assets/85a4ec60-24bd-4bb7-88d6-c95717f14c7f" />
 
 
-## *How changing the values in TT Motor Rotate.cpp changes the behavior:
+## *How changing the values in TT Motor Rotate.cpp changes the behavior:*
 - **Modifying analogWrite():** Change the value makes the speed of the TT motor different, higher value is faster while lower value is slower.
 - **Swapping analogWrite():** Swap the value changes the rotation orientation of the TT motor.
 - **Modifying delay():** Changing the delay makes the motor run for a longer or shorter period depending on the value
