@@ -19,9 +19,9 @@ For this lab, I selected the **Touch Sensor Module** as my sensor and the **Pass
 
 The code that integrates the touch sensor and passive buzzer can be found in `main.cpp` in the `/Lab_5/.src` folder.
 
-## *System Behavior*
+## *System Expected Behavior*
 
-When the touch sensor is touched, the ESP32 reads a HIGH signal on its input pin and immediately drives the passive buzzer to sound continuously. As soon as contact with the touch sensor is released, the ESP32 reads LOW and the buzzer stops immediately — there is no delay or cooldown between touches.
+When the touch sensor is touched, the ESP32 reads a sufficiently powerful signal enough on its input pin that it makes the passive buzzer to sound continuously. As soon as contact with the touch sensor is released, the buzzer should stops immediately.
 
 ## *Steps Completed to Finish This Lab*
 1. Set up the Lab 5 folder in my ECSE 395 GitHub repository.
@@ -47,12 +47,8 @@ The coding file for this lab is in the `/Lab_5/.src` folder:
 [INSERT IMAGE OF CIRCUIT HERE]
 
 **Wiring:**
-- Touch Sensor Module: VCC → 3.3V, GND → GND, OUT → GPIO [INSERT PIN NUMBER USED]
-- Passive Buzzer Module: + → GPIO [INSERT PIN NUMBER USED] (PWM), − → GND
-
-## *Video Demonstration*
-
-[INSERT VIDEO LINK / EMBED HERE]
+- Touch Sensor Module: VCC → 3.3V, GND → GND, OUT → PIN A0
+- Passive Buzzer Module: + → PIN 33 (PWM), − → GND
 
 ## *Time Reporting and Reflection*
 1. It took me about 90 minutes to finish all of the task including spinning the Tuned Torque Motor, Servo Motor and the extra credits.
