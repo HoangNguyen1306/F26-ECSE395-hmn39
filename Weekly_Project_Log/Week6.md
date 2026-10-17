@@ -1,4 +1,4 @@
-# Weekly Project Log - Week 5 - 2nd October 2026
+# Weekly Project Log - Week 6 - 2nd October 2026
 
 ## *Team 3 - ECSE 395 Activities*
 - **30th September 2026**: Worked together on making a Google Slide presentation on covering our 3 concept ideas, potential ideas to solve the stakeholder's forgetting window problem.
