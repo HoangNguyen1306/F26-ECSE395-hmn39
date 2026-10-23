@@ -1,14 +1,16 @@
-# Weekly Project Log - Week 8 - 16th October 2026
+# Weekly Project Log - Week 9 - 23rd October 2026
 
 ## *Team 3 - ECSE 395 Activities*
-- **12th October 2026**: At the Glennan lab, we worked on doing our Verification and Validation Plan that is due later tonight. We also start working on testing out and finishing our Prototype 1 and 2 for the project. Prototype 1 is to test all components together on the same ESP32 to test basic functionality. While Prototype 2 is to test each components (Specifically the MPU6050 and the laser module) separately on its own breadboard.
-- **16th October 2026**: Group start working on the Prototype 3 where we combined back the MPU6050 and the laser module together in order to test out ESP32 to ESP32 connection, we also worked on the door sensor module that senses when the stakeholder is coming out or coming in of the apartment.
+- **17th October 2026**: At the Glennan lab, we worked on refining our system architecture and start working on the prototype 3, and the Minimally Viable Product design / concept.
+- **18th October 2026**: At the Glennan lab, we finished our prototype 3 and tested it to see if it works under basic conditions - conditions in which the final contraption should perform as expected. We also designed a 3d model and thought of possible MVP designs based on the layout of the stakeholder's room.
+- **23rd October 2026**: Our group starts to work on our presentation slides and created a script for us to present on the following Monday lecture, and then later on starting working on the Prototype 1,2 and 3 Assignment that is due on Monday.
 
 **My contribution to the group:**
-- I worked on Part 7 and 8 for the Verification and Validation Plan assignment.
-- Think of the main mechanics and architecture for the overall system's software and hardware, and showing my teammates my suggestions.
-- Worked on the door sensor module and tests out the mechanics behind it, discuss on how we can perform ESP32-to-ESP32 connection between the door sensor and the other two combined sensors.
+- I helped further integrate the door sensor circuit from Prototype 2 into the general circuit we included for the Prototype 3 - in which the main objective is to test out the functionalities of our code (if the window is open and/or the dog cage is open, the system will notify the stakeholder).
+- I worked on the finished the intial 3D design for the door sensor module (that will eventually work separately with the dog crate/window sensor via ESP32-to-ESP32 communication).
+- For the Prototype 1,2 and 3 assignment due on Monday, I did the
 
 ## *Next Week Task*
-- During Fall break, working on finishing the 3rd Prototype and the wireless connection between two esp32.
-- Working on the Midterm Group Presentation by Wednesday.
+- We will keep working on our presentation and rehearse it for our Monday presentation.
+- Also for the meantime, we would also work on the Prototype 1,2 and 3 Assignment that will be done by Monday.
+- And then finalize the design for the Minimally Viable Prototype (MVP).
