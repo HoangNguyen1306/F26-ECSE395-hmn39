@@ -17,3 +17,5 @@ This is a weekly updated log and accountability of my work and effort for the EC
 **Week 7:** Updated on 9th October, 2026
 
 **Week 8:** Updated on 16th October, 2026
+
+**Week 9:** Updated on 23th October, 2026
