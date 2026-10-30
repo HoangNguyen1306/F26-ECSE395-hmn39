@@ -1,18 +1,20 @@
 # Weekly Project Log - Week 10 - 30th October 2026
 
 ## *Team 3 - ECSE 395 Activities*
-- **26th October 2026**: At the Glennan lab, we worked on refining our system architecture and start working on the prototype 3, and the Minimally Viable Product design / concept.
-- **27th October 2026**: At the Glennan lab, we finished our prototype 3 and tested it to see if it works under basic conditions - conditions in which the final contraption should perform as expected. We also designed a 3d model and thought of possible MVP designs based on the layout of the stakeholder's room.
-- **28rd October 2026**: Our group starts to work on our presentation slides and created a script for us to present on the following Monday lecture, and then later on starting working on the Prototype 1,2 and 3 Assignment that is due on Monday.
-- **30th October 2026**:
+- **26th October 2026**: We worked on refining, rehearsed and presented for our Monday Midterm Presentation for Prototype 1,2 and 3. After the presentation, we discussed the plans for the Minimally Viable Prototype (MVP) for this week and worked on our Prototype 1,2 and 3 assignments later that night.
+- **27th October 2026**: At the Glennan lab, we continued working on establishing proper wireless connections between our 3 different circuits for the multimodal project, and made cardboard cutouts for the circuit cases and window, dog crate emulator (not 1:1 replica of the stakeholder's apartment).
+- **28th October 2026**: Continued on troubleshooting the problems we've had for the project.
+- **30th October 2026**: At the Glennan lab, we checked-in our current progress for the Minimally Viable Product with the TA, continued to work on the Minimally Viable Product's development for the following week in order to verify and validate the MVP performace and results later on.
 
 **My contribution to the group:**
-- I helped further integrate the door sensor circuit from Prototype 2 into the general circuit we included for the Prototype 3 - in which the main objective is to test out the functionalities of our code (if the window is open and/or the dog cage is open, the system will notify the stakeholder).
-- I worked on the finished the intial 3D design for the door sensor module (that will eventually work separately with the dog crate/window sensor via ESP32-to-ESP32 communication).
-- For the Prototype 1,2 and 3 assignment due on Monday, I did the
+- I presented the presentation on Monday for the Story Time (project's context) and the Evaluation Plans of our Prototype 1,2 and 3.
+- I created the cardboard cutouts for our group's replica for the stakeholder's window, dog crate door (not 1:1 size) and the security case for the door sensor module.
+- I helped in further integrating the wireless communication between our circuits, and testing out scenarios to test whether our MVP is behaving as expected to the desired behavior.
+- I worked on the 3D design for the door sensor module security case (the cardboard cutout was a rudimentary implementation). Start working on the 3D model for the window and dog crate for future weeks.
+- I helped my group finishing the Prototype 1,2 and 3 assignments due on Monday on some parts and refined it before submission.
 
 ## *Next Week Task*
-- We will keep working on our presentation and rehearse it for our Monday presentation.
-- Also for the meantime, we would also work on the Prototype 1,2 and 3 Assignment that will be done by Monday.
-- And then finalize the design for the Minimally Viable Prototype (MVP).
+- We will keep working on our Minimally Viable Prototype during this week and the following week.
+- Also, for the meantime, we would also work on the MVP Documentation Assignment that will be done by Monday next week.
+- And then finalize, verify and validate the design and performace for the Minimally Viable Prototype (MVP).
 
