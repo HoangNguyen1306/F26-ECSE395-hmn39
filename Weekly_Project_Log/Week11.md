@@ -7,7 +7,7 @@
 
 **My contribution to the group:**
 - I helped pinpoint out some better solutions in our groups' approach to fixing and validating the MVP performances.
-- I, alongside with Ray, created the cardboard cutouts for our group's replica for the stakeholder's window, dog crate door (not 1:1 size) and the security case for the door sensor module.
+- I, alongside with Ray, continued on refining the cardboard cutouts for our group's replica for the stakeholder's window, dog crate door (not 1:1 size) and the security case for the door sensor module.
 - I helped in conducting raw tests for the brain module of our device, alongside with other members in the team.
 - I helped my group finishing the MVP assignments due on Monday on some parts and refined it before submission.
 
